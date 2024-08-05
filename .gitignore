@@ -1,0 +1,63 @@
+# System directories
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+AppData/
+NTUSER.DAT
+NTUSER.DAT*
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Other
+3D Objects/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Saved Games/
+Searches/
+Videos/
+Cisco Packet Tracer 8.2.2/
+.VirtualBox/
+.arduinoIDE/
+.cache/
+.config/
+.eclipse/
+.gitconfig
+.node_repl_history
+.p2/
+.packettracer
+.redhat/
+eclipse-workspace/
+eclipse/
+html file/
+lean c in one video/
